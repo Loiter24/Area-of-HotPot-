@@ -1,0 +1,66 @@
+1585927633125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVw6ez2"
+1585927634468	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585927634929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585927634929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585927634929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585927634929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585927638741	Marionette	INFO	Listening on port 38001
+1585927638836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pos.baidu.com/iclm?conwid=960&conhei=90&rdid=3394128&dc=3&exps=110011&psi=b31575128605bb8bec6cedb26e788e94&di=u3394128&dri=0&dis=0&dai=3&ps=8445x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585927641159&ti=%E3%80%90%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%7C%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E9%97%A8%E9%9D%A2%E5%87%BA%E7%A7%9F%7C%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%E7%BD%91%E3%80%91-%E6%98%86%E6%98%8E5&ari=2&ver=0401&dbv=0&drs=4&pcs=945x627&pss=1190x8737&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585927641&prot=2&rw=639&ltu=https%3A%2F%2Fkm.58.com%2Fguandu%2Fshangpucz%2Fpn1%2F%3FnewSearch%3D1%26area%3D100_300%26sq%3D1%26ClickID%3D1&ecd=1&uc=957x741&pis=-1x-1&sr=1024x768&tcn=1585927641&qn=4ba0f9bc7d0d4cfe&tt=1585927641137.35.500.500, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/iclm?conwid=960&conhei=90&rdid=3394128&dc=3&exps=110011&psi=b31575128605bb8bec6cedb26e788e94&di=u3394128&dri=0&dis=0&dai=3&ps=8445x0&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1585927641159&ti=%E3%80%90%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%7C%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E9%97%A8%E9%9D%A2%E5%87%BA%E7%A7%9F%7C%E6%98%86%E6%98%8E%E5%AE%98%E6%B8%A1100-300m%C2%B2%E5%95%86%E9%93%BA%E5%87%BA%E7%A7%9F%E7%BD%91%E3%80%91-%E6%98%86%E6%98%8E5&ari=2&ver=0401&dbv=0&drs=4&pcs=945x627&pss=1190x8737&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1585927641&prot=2&rw=639&ltu=https%3A%2F%2Fkm.58.com%2Fguandu%2Fshangpucz%2Fpn1%2F%3FnewSearch%3D1%26area%3D100_300%26sq%3D1%26ClickID%3D1&ecd=1&uc=957x741&pis=-1x-1&sr=1024x768&tcn=1585927641&qn=4ba0f9bc7d0d4cfe&tt=1585927641137.35.500.500, line 137: unreachable code after return statement
+JavaScript error: https://cpro.baidustatic.com/cpro/ui/noexpire/js/3.1.6/cpro.js, line 1: TypeError: A is undefined
+1585927751143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqMaozl"
+1585927753217	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1585927753944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1585927753944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1585927753944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1585927753944	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1585927758511	Marionette	INFO	Listening on port 39077
+1585927758578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1585927832739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8cgy27"
+Exception ignored in: <_io.TextIOWrapper name='<stdout>' mode='w' encoding='UTF-8'>
+BrokenPipeError: [Errno 32] Broken pipe
+console.error: services.settings: 
+DOMException
+  - prototype DOMException
+    - ABORT_ERR = 20
+    - DATA_CLONE_ERR = 25
+    - DOMSTRING_SIZE_ERR = 2
+    - HIERARCHY_REQUEST_ERR = 3
+    - INDEX_SIZE_ERR = 1
+    - INUSE_ATTRIBUTE_ERR = 10
+    - INVALID_ACCESS_ERR = 15
+    - INVALID_CHARACTER_ERR = 5
+    - INVALID_MODIFICATION_ERR = 13
+    - INVALID_NODE_TYPE_ERR = 24
+    - INVALID_STATE_ERR = 11
+    - NAMESPACE_ERR = 14
+    - NETWORK_ERR = 19
+    - NOT_FOUND_ERR = 8
+    - NOT_SUPPORTED_ERR = 9
+    - NO_DATA_ALLOWED_ERR = 6
+    - NO_MODIFICATION_ALLOWED_ERR = 7
+    - QUOTA_EXCEEDED_ERR = 22
+    - SECURITY_ERR = 18
+    - SYNTAX_ERR = 12
+    - TIMEOUT_ERR = 23
+    - TYPE_MISMATCH_ERR = 17
+    - URL_MISMATCH_ERR = 21
+    - VALIDATION_ERR = 16
+    - WRONG_DOCUMENT_ERR = 4
+    - code = 20
+    - columnNumber = 0
+    - data = null
+    - filename = 
+    - lineNumber = 0
+    - location = null
+    - message = The operation was aborted. 
+    - name = AbortError
+    - result = 2152923156
+    - stack = 
+  - prototype Error
+  - prototype Object
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1585927984261	Marionette	INFO	Stopped listening on port 39077
+1585928048112	Marionette	INFO	Stopped listening on port 38001
